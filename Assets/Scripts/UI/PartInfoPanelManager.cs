@@ -15,6 +15,7 @@ public class PartInfoPanelManager : MonoBehaviour
     [SerializeField] TextMeshProUGUI partDescription;
 
     public void show(EnginePartData data) {
+        Debug.Log("showing panel");
         partName.text = data.partName;
         partDescription.text = data.description;
         ea.Expand();
