@@ -1,0 +1,47 @@
+{
+    "version": 1,
+    "name": "Selection",
+    "maps": [
+        {
+            "name": "SelectionMap",
+            "id": "55815953-d563-4927-a4e7-21e9ef182ee4",
+            "actions": [
+                {
+                    "name": "Select",
+                    "type": "Button",
+                    "id": "1cc156fb-b6e5-4b31-9758-26c809aac2e2",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "346c60c3-adf2-474c-9fb8-ae398e6467a5",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";New Control Scheme",
+                    "action": "Select",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "New Control Scheme",
+            "bindingGroup": "New Control Scheme",
+            "devices": [
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
