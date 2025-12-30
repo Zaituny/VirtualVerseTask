@@ -16,16 +16,6 @@ Alongside the project files, the repository includes the original assessment doc
 - Organized assets, scenes, and project settings for clarity and maintainability.
 - Demonstrates fundamental Unity features: GameObjects, components, scripting, and scene interactions.
 
-## 🎥 Demo
-
-Below is a demo showing the scene in action:
-
-
-
-https://github.com/user-attachments/assets/a69a4bdf-422d-48e0-90d5-3067e16d8e50
-
-
-
 ## 🚀 Getting Started
 
 To run this project locally:
@@ -43,6 +33,7 @@ To run this project locally:
 | Rotate Camera | `Click and Drag` |
 | Zoom Camera | `Scroll Wheel` |
 | Select Part | `Right Click` |
+
 
 
 
