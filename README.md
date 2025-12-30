@@ -7,7 +7,7 @@ This repository contains my implementation for the **Virtual Verse Studio intern
 This project is a solution to the Virtual Verse Studio Unity assessment. The goal of this task is to create a Unity scene with interactive 3D elements and demonstrate understanding of Unity fundamentals, including scripting, scene setup, and configuration workflows.
 
 Alongside the project files, the repository includes the original assessment document:  
-**`Unity Developer Assessment 3D Configuration Module.pdf`** — detailing the requirements and expected deliverables.
+**`Unity Developer Assessment 3D Configuration Module.pdf`** detailing the requirements and expected deliverables.
 
 ## 🛠 Features
 
@@ -35,6 +35,14 @@ To run this project locally:
 
    ```bash
    git clone https://github.com/Zaituny/VirtualVerseTask.git
+
+## 🎮 User Controls
+
+| Action | Input |
+|--------|-------|
+| Rotate Camera | `Click and Drag` |
+| Zoom Camera | `Scroll Wheel` |
+| Select Part | `Right Click` |
 
 
 
